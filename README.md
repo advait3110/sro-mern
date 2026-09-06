@@ -1,5 +1,3 @@
-Frontend :https://sro-mern.vercel.app/
+Frontend: https://sro-mern.vercel.app/
 
-
-Backend:
-https://sro-mern-beh4g2exd2fhbpch.eastasia-01.azurewebsites.net
+Backend: https://sro-mern-dda3dsdfekekazbt.indiasouthcentral-01.azurewebsites.net
