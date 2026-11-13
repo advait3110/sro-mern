@@ -10,4 +10,7 @@ Backend: https://sro-mern-dda3dsdfekekazbt.indiasouthcentral-01.azurewebsites.ne
 
 <img width="1918" height="814" alt="image" src="https://github.com/user-attachments/assets/75ad8dd1-b00b-4630-aa81-5642f7536a23" />
 
+<img width="769" height="426" alt="image" src="https://github.com/user-attachments/assets/8c59a876-967f-4b5e-8eb1-a467f5367f6e" />
 
+<img width="1912" height="754" alt="image" src="https://github.com/user-attachments/assets/149a9237-5ea7-46d6-83af-3653ca8a6199" />
+<img width="1912" height="754" alt="image" src="https://github.com/user-attachments/assets/c44f6d23-0297-4b5c-96ff-c7ac89ca150f" />
